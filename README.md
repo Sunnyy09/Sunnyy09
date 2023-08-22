@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Backend Websites**
+- 👯 I’m looking to collaborate on **Backend Websites Projects**
 
 - 📫 How to reach me **12001109@csepup.ac.in**
 
