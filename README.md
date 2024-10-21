@@ -2,14 +2,14 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyy09&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyy09" /> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **UP Skills**
 
 - 🌱 I’m currently learning **New Technologies**
 
 - 👯 I’m looking to collaborate on **Backend Websites Projects**
 
 - 📫 How to reach me **Sunxny09@gmail.com**
-                       https://sunnyportfolio-aab23.web.app/
+                      **https://sunnyportfolio-aab23.web.app/**
 
 - ⚡ Fun fact **I am Funny**
 
