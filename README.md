@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on **Backend Websites Projects**
 
 - 📫 How to reach me **Sunxny09@gmail.com**
-                     <pre> **https://sunnyportfolio-aab23.web.app/**
-                           **https://www.linkedin.com/in/simranpreet-singh-11r09/**</pre>
+                     <pre> Portfolio **https://sunnyportfolio-aab23.web.app/**
+                           LinkedIn Profile **https://www.linkedin.com/in/simranpreet-singh-11r09/**</pre>
 
 - ⚡ Fun fact **I am Funny**
 
