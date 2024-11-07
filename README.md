@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simranpreet Singh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyy09&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyy09" /> </p> -->
 
 - 🔭 I’m currently working on **UpSkilling Consistently**
