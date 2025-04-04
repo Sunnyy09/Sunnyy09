@@ -41,9 +41,9 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyy09&show_icons=true&locale=en&layout=compact" alt="sunnyy09" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sunnyy09&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyy09&show_icons=true&locale=en" alt="sunnyy09" /></p>
+![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnyy09&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyy09&" alt="sunnyy09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyy09&theme=tokyonight" alt="sunnyy09" /></p>
 
