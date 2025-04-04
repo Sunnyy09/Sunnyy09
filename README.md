@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Simranpreet Singh</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20220717/ourmid/pngtree-front-end-development-developer-occupation-black-line-pencil-drawing-vector-png-image_5986849.png" />
 
-- 🔭 I’m currently working on **Frontend technologies**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Backend technologies (MERN)**
+- 🌱 Currently exploring **modern web development frameworks like NextJS, Remix, NestJS, Django, Angular** to enhance my full stack skills.
 
-- 👨‍💻 All of my projects are available at "https://github.com/Sunnyy09"
+- 💬 **Curious about fullstack magic? Let’s talk JavaScript, React, Node, and more!**
 
-- 💬 Ask me about **Frontend technologies**
+- 🔗 Check out all my projects on *[GitHub](https://github.com/Sunnyy09) or visit my [Portfolio](https://sunnyportfolio-64f45.web.app/)*
 
 - 📫 How to reach me:
-                  <pre>Email:- **Sunxny09@gmail.com**
-                   Portfolio:- **https://sunnyportfolio-64f45.web.app/**
-                   LinkedIn:- **https://www.linkedin.com/in/simranpreet-singh-11r09/**</pre>
+                  <pre>**📧 Email:**- *simranpsinghdev@gmail.com*</pre>
 
-- 📄 Know about my experiences "https://drive.google.com/file/d/1W-NqAa4fglXLqMzthdaCyaIp6rffpGbc/view?usp=sharing"
+- 📄 Know about my experiences: *[View My Resume](https://drive.google.com/file/d/1W-NqAa4fglXLqMzthdaCyaIp6rffpGbc/view?usp=sharing)*
+- ⚡ *Fun fact*: **I love turning coffee ☕ into clean code ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
